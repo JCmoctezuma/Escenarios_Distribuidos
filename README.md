@@ -1,9 +1,9 @@
-# Primer punto: se selecciona la imagen del SO a instalar
+Primer punto: se selecciona la imagen del SO a instalar
  <img src="https://github.com/JCmoctezuma/Escenarios_Distribuidos/tree/master/Images/img1.jpg">
  <br>
 
 Luego se selecciona la opción de instalar centos8
-![imagen.png](attachment:https://github.com/JCmoctezuma/Escenarios_Distribuidos/tree/master/Images/img2.jpg)
+![/img2.png](attachment:https://github.com/JCmoctezuma/Escenarios_Distribuidos/tree/master/Images/img2.jpg)
  
 Luego mestra una interfaz grafica que nos permite configurar nuestra maquina virtual.
 ![imagen.png](attachment:imagen.png)
