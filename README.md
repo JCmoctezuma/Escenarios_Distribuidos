@@ -1,5 +1,6 @@
 # Primer punto: se selecciona la imagen del SO a instalar
- ![imagen.png](attachment: https://github.com/JCmoctezuma/Escenarios_Distribuidos/tree/master/Images/img1.png)
+ <img src="https://github.com/JCmoctezuma/Escenarios_Distribuidos/tree/master/Images/img1.png">
+ <br>
 
 Luego se selecciona la opción de instalar centos8
 ![imagen.png](attachment:imagen.png)
